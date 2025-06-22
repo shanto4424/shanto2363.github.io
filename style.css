@@ -1,0 +1,5 @@
+/* Basic CSS placeholder. Replace with full styling later. */
+body.dark { background: #111; color: #fff; font-family: sans-serif; }
+.container { padding: 20px; }
+nav ul { list-style: none; display: flex; gap: 10px; justify-content: center; padding: 0; }
+nav ul li a { color: #ff69b4; text-decoration: none; }
